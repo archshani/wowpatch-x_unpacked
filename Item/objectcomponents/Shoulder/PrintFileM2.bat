@@ -1,0 +1,1 @@
+dir /s /b *.m2 > PrintFileM2.txt

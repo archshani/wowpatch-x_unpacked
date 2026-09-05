@@ -1,0 +1,1 @@
+dir /s /b *.blp > PrintFileBlp.txt
